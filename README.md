@@ -1,4 +1,4 @@
-# VideoTel Technical Test 
+# Technical Test 
 This is Spring Boot based application to perform CRUD operations on a User using the In-Memory DB H2.
 
 ## Getting Started
